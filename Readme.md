@@ -18,7 +18,7 @@ Only download if you trust the source. and A Virus or malware test beforehand is
   <img src="./preview/image2.jpg" alt="Second view" width="80%"><br>
 </p>
 <p align="center">
-  <img src="./preview/image3.jph" alt="third view" width="80%"><br>
+  <img src="./preview/image3.jpg" alt="third view" width="80%"><br>
 </p>
 <p align="center">
   <img src="./preview/image4.jpg" alt="fourth view" width="80%"><br>
