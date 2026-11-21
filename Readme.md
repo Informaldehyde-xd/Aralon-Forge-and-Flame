@@ -1,4 +1,4 @@
-#### Aralon: Fire and Forge
+#### Aralon: Forge and Flame
 revived by Informaldehyde-xd.
 
 THIS is the patched version of Aralon 2 patched for newer Android version and 
